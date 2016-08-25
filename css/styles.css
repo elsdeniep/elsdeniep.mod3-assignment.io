@@ -2,6 +2,10 @@ body {
     font-size: 1.5em;
 }
 
+h1 {
+    font-size: 2em;
+    font-weight: 600;
+}
 .navbar-default .navbar-nav>.active>a {
      background-color: #AED6B7;
     border-bottom: 1px solid #2F5D3A;
